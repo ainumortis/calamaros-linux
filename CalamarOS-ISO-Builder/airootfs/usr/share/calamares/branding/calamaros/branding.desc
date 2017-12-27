@@ -1,0 +1,23 @@
+---
+componentName:  calamaros
+
+strings:
+    productName:         CalamarOS
+    shortProductName:    CalamarOS
+    version:             17.12
+    shortVersion:        17.12
+    versionedName:       CalamarOS 17.12
+    shortVersionedName:  CalamarOS 17.12
+    bootloaderEntryName: Calamaros
+
+images:
+    productLogo:         "squid.png"
+    productIcon:         "logo.png"
+    productWelcome:      "languages.png"
+
+slideshow:               "show.qml"
+
+style:
+   sidebarBackground:    "#292F34"
+   sidebarText:          "#FFFFFF"
+   sidebarTextSelect:    "#292F34"

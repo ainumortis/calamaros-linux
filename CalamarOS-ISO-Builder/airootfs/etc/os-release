@@ -1,0 +1,8 @@
+NAME="CalamarOS"
+ID=calamaros
+PRETTY_NAME="CalamarOS"
+ANSI_COLOR="0;36"
+HOME_URL="https://www.calamaros.com/"
+SUPPORT_URL="https://bbs.calamaros.com/"
+BUG_REPORT_URL="https://bugs.calamaros.com"
+
